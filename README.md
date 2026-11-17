@@ -4,11 +4,13 @@
 
 # ⚖️ Awesome Legal & Contract Data Lake Architecture 🚀
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-sqaare&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Legal-Contract-Data-Lake-Architecture/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Legal-Contract-Data-Lake-Architecture/graphs/commit-activity)
 [![Topics](https://img.shields.io/badge/Topics-LegalTech%20%7C%20Data%20Lake%20%7C%20CLM-blue.svg)](https://github.com/ishandutta2007/Awesome-Legal-Contract-Data-Lake-Architecture)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **A curated list of Enterprise SaaS platforms, Hosted Lakehouse engines, and Open-Source frameworks for architecting Legal, Contract Lifecycle Management (CLM), SEC EDGAR, and Clause Analytics Data Lakes.**
 
@@ -145,6 +147,24 @@ Contributions are always welcome!
 3. Commit your changes (`git commit -m 'Add awesome legal data lake tool'`).
 4. Push to the branch (`git push origin feature/AddAwesomeEngine`).
 5. Open a Pull Request.
+
+---
+
+## 💖 Support & Sponsoring
+
+Thank you for exploring the **Awesome Legal & Contract Data Lake Architecture** repository! 🌟
+
+If you find this project helpful or valuable for your legal technology, contract intelligence, or data engineering research:
+- ⭐ **Star** this repository on GitHub to show your appreciation and boost its visibility!
+- 🍴 **Fork** it and contribute your own tools, blueprints, or domain extensions.
+- 📢 **Share** it with fellow legal engineers, general counsels, and data architects.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support ongoing maintenance and new curated legaltech architectures, consider becoming a sponsor via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007). Your support is deeply appreciated!
+
+---
+
+## 📊 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Legal-Contract-Data-Lake-Architecture&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Legal-Contract-Data-Lake-Architecture&type=date&legend=top-left)
 
 ---
 
